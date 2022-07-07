@@ -20,7 +20,7 @@
 
 <h2><i>💻 Technology Infrastructure 🚀</i></h2>
 <br>
-<table width="150">
+<table width="100">
 <tr>
  <td   align="center"  width="190" > 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"> </a> 
